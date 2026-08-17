@@ -35,6 +35,7 @@
       ]
     ],
     "experiments": {
+      "baseUrl": "/news-app",
       "typedRoutes": true,
       "reactCompiler": true
     }
